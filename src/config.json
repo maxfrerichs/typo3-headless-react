@@ -1,4 +1,4 @@
 {
-    "apiRoot": "http://localhost/typo3-headless/",
-    "apiParams": "?type=834"
+    "apiRoot": "http://localhost",
+    "apiParams": "/typo3-headless/?type=834"
 }
